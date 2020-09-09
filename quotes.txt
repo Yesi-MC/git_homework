@@ -1,1 +1,1 @@
-"those who wander are not lost"
+quotes = "those who wander are not lost"
